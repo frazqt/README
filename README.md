@@ -18,3 +18,10 @@
     # kotlin
     # xml
     # vba
+
+# Hobbies / Interests
+    # Building PCs
+    # Android App development
+    # Task automation
+    # Acoustic & Electric Guitar
+    # Gym / Weightlifting
